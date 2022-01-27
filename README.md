@@ -1,7 +1,7 @@
 # Colombia_AISTABLFAE_2
 
 This project contains code used to predict forest conversion risk in Colombia as part of the paper 
-"An investment strategy to address biodiversity loss from agricultural expansion".
+"An investment strategy to address biodiversity loss from agricultural expansion" (in review).
 
 First script: Deforestation_model_pub.R
 - Code used to 
